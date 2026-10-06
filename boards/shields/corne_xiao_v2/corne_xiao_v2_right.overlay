@@ -1,11 +1,7 @@
 #include "corne_xiao_v2.dtsi"
 
 &default_transform {
-    col-offset = <6>;
-};
-
-&five_column_transform {
-    col-offset = <6>;
+    col-offset = <7>;
 };
 
 &kscan0 {
@@ -19,4 +15,3 @@
         , <&xiao_d 7 GPIO_ACTIVE_HIGH>
         ;
 };
-
