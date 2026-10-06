@@ -9,7 +9,7 @@
         layer_0 {
             bindings = <
 &kp ESC    &kp Q  &kp W  &kp E     &kp R  &kp T  &kp LGUI   &kp RET    &kp Z    &kp U  &kp I      &kp O    &kp P      &kp BSPC
-&kp LCTRL  &kp A  &kp S  &kp D     &kp F  &kp G  &mo 1      &mo 2  &kp H    &kp J  &kp K      &kp L    &studio_unlock     &studio_unlock
+&kp LCTRL  &kp A  &kp S  &studio_unlock     &studio_unlock  &kp G  &mo 1      &mo 2  &kp H    &kp J  &kp K      &kp L    &studio_unlock     &studio_unlock
 &kp LS(Y)  &kp Y  &kp X  &kp C     &kp V  &kp B  &kp SPACE  &kp RALT     &kp N    &kp M  &kp COMMA  &kp DOT  &kp MINUS  &studio_unlock
             >;
         };
